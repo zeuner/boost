@@ -238,11 +238,6 @@
 	url = ../optional.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
-[submodule "property_tree"]
-	path = libs/property_tree
-	url = ../property_tree.git
-	fetchRecurseSubmodules = on-demand
-	branch = .
 [submodule "bimap"]
 	path = libs/bimap
 	url = ../bimap.git
